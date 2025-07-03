@@ -27,4 +27,4 @@ I have been specializing in Python programming, focusing on web development with
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/PySyntaxNinja"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PySyntaxNinja&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/NexTechQuantum"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NexTechQuantum&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
