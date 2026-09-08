@@ -7,7 +7,6 @@ Developer and Automation Specialist
 I have been specializing in Python programming, focusing on web development with Flask, and automation through Python scripting, Bash, and PowerShell.
 
 * 🚀  I'm currently working on [Germany](http://nexquantum.de (Coming Soon))
-* 🧠  I'm learning AI
 * 🤝  I'm open to collaborating on Projects that require automation and process optimization.
 * ⚡  Feel free to reach out for your project needs!
 
